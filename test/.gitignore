@@ -1,0 +1,7 @@
+/terragrunt.hcl
+/.terraform.hcl
+/common-var.tf
+/terraform.tfvars
+/.terraform.lock.hcl
+/.terraform
+/backend.tf
