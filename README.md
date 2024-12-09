@@ -1,4 +1,4 @@
-# terraform-google-network
+# terraform-gcp-network
 
 This module creates a Google Cloud Platform (GCP) Virtual Private Cloud (VPC) and optional subnets.
 
